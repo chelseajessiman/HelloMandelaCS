@@ -13,8 +13,8 @@ List of all CS Students
 - Name
 
 ## 3rd Year
-- Chelsea Jessiman
 - Name
+- Chelsea Jessiman
 - Name
 
 ## Honours
